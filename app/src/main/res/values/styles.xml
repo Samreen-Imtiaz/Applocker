@@ -8,4 +8,48 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+
+
+
+
+<!--  <style name="CodeFont" parent="@android:style/Widget.Button">
+      <item name="android:layout_width">fill_parent</item>
+      <item name="android:layout_height">fill_parent</item>
+      <item name="android:background">@drawable/lockscreen_button</item>
+      <item name="android:textColor">#CCCCCC</item>
+      <item name="android:textSize">20dip</item>
+      <item name="android:gravity">center</item>
+      <item name="android:padding">10dip</item>
+      <item name="android:layout_marginTop">13dip</item>
+      <item name="android:layout_marginLeft">0dip</item>
+      <item name="android:layout_marginRight">3dip</item>
+  </style>
+-->
+<style name="ImageTitle">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">50dp</item>
+    <item name="android:layout_alignParentBottom">true</item>
+    <item name="android:background">#99000000</item>
+    <item name="android:gravity">center</item>
+    <item name="android:maxLines">2</item>
+    <item name="android:textColor">#fff</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:textSize">18dp</item>
+    <item name="android:typeface">sans</item>
+</style>
+
+<style name="ButtonContainer">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">50dp</item>
+    <item name="android:layout_alignParentTop">true</item>
+    <item name="android:background">#99000000</item>
+    <item name="android:gravity">center</item>
+</style>
+
+
+
+
+
+
 </resources>
