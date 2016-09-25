@@ -2,7 +2,7 @@ package test.applocker.com.applocker;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-//author alee hussnain okok
+//author alee huss
 public class MainActivity extends AppCompatActivity {
 
     @Override
